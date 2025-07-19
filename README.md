@@ -29,6 +29,11 @@
 
 ---
 
+### Задание 2
+
+[Добавлен .gitignore](https://github.com/bmw81/netology-git/commit/1bf1c361af6276b41cf52bc4ffd50ab90bb794ce)
+
+
 ---
 
 ### Задание 3
